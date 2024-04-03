@@ -1,0 +1,3 @@
+/home/oci/CLionProjects/jacc/cmake-build-debug/CMakeFiles/jacc.dir
+/home/oci/CLionProjects/jacc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oci/CLionProjects/jacc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
